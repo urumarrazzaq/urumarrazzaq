@@ -17,74 +17,10 @@
 
 ## 🚀 About Me
 
-```csharp
-class UmarRazaq : UnrealDeveloper {
-  string Specialization = "Immersive Game Experiences";
-  string[] Skills = {
-    "Unreal Engine 5.3", 
-    "C++ Gameplay Programming",
-    "AI Behavior Systems",
-    "Multiplayer Networking",
-    "Cinematic VFX",
-    "Procedural Content Generation"
-  };
-  
-  void Create() {
-    while(true) {
-      BuildInnovativeProjects();
-      PushTechnicalBoundaries();
-      DrinkCoffee();
-    }
-  }
-}
-🔥 Technical Arsenal
-<div align="center">
-Game Development	AI & Systems	Content Creation
-Unreal Engine	Behavior Trees	Blender
-C++	Machine Learning	Substance
-Blueprints	Utility AI	Quixel
-Multiplayer	GOAP	Houdini
-</div>
-🌟 Featured Projects
-🃏 Advanced Poker AI System
-Adaptive AI with psychological modeling and dynamic strategy adjustment
 
-diff
-Copy
-+ Implemented advanced decision trees
-+ Created bluffing algorithms
-+ Integrated machine learning for pattern recognition
-👻 Paranoid Look-Back System
-Procedural animation system for horror games
 
-diff
-Copy
-+ Dynamic camera behaviors
-+ Physics-based animation blending
-+ AI-driven suspense mechanics
-🔫 Multiplayer FPS Framework
-Complete UE5 shooter template with advanced features
-
-diff
-Copy
-+ Replicated weapon systems
-+ Lag compensation
-+ Custom matchmaking
-View All Projects
-
-📊 Development Focus
-mermaid
-Copy
-pie
-    title Current Development Focus
-    "AI Systems" : 35
-    "Gameplay Mechanics" : 30
-    "Multiplayer" : 20
-    "Tools Development" : 15
-📫 Let's Collaborate!
-<div align="center">
-Portfolio
-Email
-LinkedIn
-
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-user-contribution.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-user-contribution.svg" />
+  <img alt="github-snake" src="github-user-contribution.svg" />
+</picture>
