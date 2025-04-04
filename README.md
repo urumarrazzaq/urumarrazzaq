@@ -1,57 +1,90 @@
-## 👋 Welcome to My GitHub!
+# 🎮 Umar Razaq | Unreal Engine Specialist
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=37F4D3&center=true&vCenter=true&width=600&lines=Unreal+Engine+Developer;AI+Enthusiast;Gameplay+Programmer;Creating+Immersive+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=37F4D3&center=true&vCenter=true&width=600&lines=Unreal+Engine+5+Developer;AI+Systems+Architect;Gameplay+Programmer;Immersive+Experience+Crafter" alt="Typing SVG" />
 </p>
 
----
-
-### 🎮 About Me
-
-I'm **Umar Razaq**, a passionate Unreal Engine specialist focused on creating immersive gaming experiences. With expertise in **Unreal Engine 5, AI development, UI/UX, and multiplayer gameplay**, I love crafting high-quality, engaging projects that push the limits of interactive storytelling.
-
----
-
-### 🔥 What I Do
-
-🚀 **Gameplay Programming** – Creating engaging game mechanics using C++ & Blueprints  
-🤖 **AI Development** – Implementing Smart AI with adaptive behavior & decision-making  
-🎨 **UI/UX Design** – Designing smooth, interactive interfaces using UMG  
-🏗️ **ArchViz & Environments** – Crafting realistic worlds with UE5  
-🎭 **Animation & VFX** – Enhancing immersion with stunning effects  
+<div align="center">
+  
+  ![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine%205.3-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
+  ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![Multiplayer](https://img.shields.io/badge/-Multiplayer-FF4D00?style=for-the-badge&logo=unity&logoColor=white)
+  ![AI](https://img.shields.io/badge/-AI%20Systems-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
+  
+</div>
 
 ---
 
-### 🛠️ Tech & Tools
+## 🚀 About Me
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Unreal%20Engine-5.3-blue?logo=unrealengine&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/C%2B%2B-Game%20Development-orange?logo=c%2B%2B&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Blueprints-Scripting-blue?logo=unrealengine&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Figma-UI%2FUX%20Design-purple?logo=figma&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Blender-3D%20Modeling-orange?logo=blender&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI%20Systems-Game%20AI-green?logo=openai&style=for-the-badge" />
-</p>
+```csharp
+class UmarRazaq : UnrealDeveloper {
+  string Specialization = "Immersive Game Experiences";
+  string[] Skills = {
+    "Unreal Engine 5.3", 
+    "C++ Gameplay Programming",
+    "AI Behavior Systems",
+    "Multiplayer Networking",
+    "Cinematic VFX",
+    "Procedural Content Generation"
+  };
+  
+  void Create() {
+    while(true) {
+      BuildInnovativeProjects();
+      PushTechnicalBoundaries();
+      DrinkCoffee();
+    }
+  }
+}
+🔥 Technical Arsenal
+<div align="center">
+Game Development	AI & Systems	Content Creation
+Unreal Engine	Behavior Trees	Blender
+C++	Machine Learning	Substance
+Blueprints	Utility AI	Quixel
+Multiplayer	GOAP	Houdini
+</div>
+🌟 Featured Projects
+🃏 Advanced Poker AI System
+Adaptive AI with psychological modeling and dynamic strategy adjustment
 
----
+diff
+Copy
++ Implemented advanced decision trees
++ Created bluffing algorithms
++ Integrated machine learning for pattern recognition
+👻 Paranoid Look-Back System
+Procedural animation system for horror games
 
-### 🌟 Featured Projects
+diff
+Copy
++ Dynamic camera behaviors
++ Physics-based animation blending
++ AI-driven suspense mechanics
+🔫 Multiplayer FPS Framework
+Complete UE5 shooter template with advanced features
 
-🔹 **Poker AI System** – Advanced AI with randomized behavior, adaptive strategies, and bluffing techniques  
-🔹 **Paranoid Look-Back System** – Dynamic player animations & camera effects in horror games  
-🔹 **Multiplayer FPS Module** – Custom-built shooting mechanics & networking in UE5  
+diff
+Copy
++ Replicated weapon systems
++ Lag compensation
++ Custom matchmaking
+View All Projects
 
-📌 **Explore More:** [View My Projects](https://github.com/UmarRazaq?tab=repositories)
+📊 Development Focus
+mermaid
+Copy
+pie
+    title Current Development Focus
+    "AI Systems" : 35
+    "Gameplay Mechanics" : 30
+    "Multiplayer" : 20
+    "Tools Development" : 15
+📫 Let's Collaborate!
+<div align="center">
+Portfolio
+Email
+LinkedIn
 
----
-
-### 📫 Let's Connect!
-
-<p align="center">
-  <a href="https://linktr.ee/urumarrazzaq"><img src="https://img.shields.io/badge/Linktree-Umar%20Razaq-lightgreen?logo=linktree&style=for-the-badge"/></a>
-</p>
-
----
-
-### ⚡ Fun Fact
-Did you know? Unreal Engine was originally developed for FPS games but now powers everything from films to architectural visualizations! 🎬🏡
+</div>
