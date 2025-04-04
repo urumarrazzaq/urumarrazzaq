@@ -1,6 +1,12 @@
 ## 👋 Welcome to My GitHub!
 
-### 🎮 Unreal Engine Developer | AI Enthusiast | Gameplay Programmer  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=37F4D3&center=true&vCenter=true&width=600&lines=Unreal+Engine+Developer;AI+Enthusiast;Gameplay+Programmer;Creating+Immersive+Experiences" alt="Typing SVG" />
+</p>
+
+---
+
+### 🎮 About Me
 
 I'm **Umar Razaq**, a passionate Unreal Engine specialist focused on creating immersive gaming experiences. With expertise in **Unreal Engine 5, AI development, UI/UX, and multiplayer gameplay**, I love crafting high-quality, engaging projects that push the limits of interactive storytelling.
 
@@ -18,12 +24,14 @@ I'm **Umar Razaq**, a passionate Unreal Engine specialist focused on creating im
 
 ### 🛠️ Tech & Tools
 
-![UE5](https://img.shields.io/badge/Unreal%20Engine-5.3-blue?logo=unrealengine&style=flat-square) 
-![C++](https://img.shields.io/badge/C%2B%2B-Game%20Development-orange?logo=c%2B%2B&style=flat-square)  
-![Blueprints](https://img.shields.io/badge/Blueprints-Scripting-blue?logo=unrealengine&style=flat-square)  
-![Figma](https://img.shields.io/badge/Figma-UI%2FUX%20Design-purple?logo=figma&style=flat-square)  
-![Blender](https://img.shields.io/badge/Blender-3D%20Modeling-orange?logo=blender&style=flat-square)  
-![AI](https://img.shields.io/badge/AI%20Systems-Game%20AI-green?logo=openai&style=flat-square)  
+<p align="center">
+  <img src="https://img.shields.io/badge/Unreal%20Engine-5.3-blue?logo=unrealengine&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/C%2B%2B-Game%20Development-orange?logo=c%2B%2B&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Blueprints-Scripting-blue?logo=unrealengine&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Figma-UI%2FUX%20Design-purple?logo=figma&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Blender-3D%20Modeling-orange?logo=blender&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20Systems-Game%20AI-green?logo=openai&style=for-the-badge" />
+</p>
 
 ---
 
@@ -33,13 +41,15 @@ I'm **Umar Razaq**, a passionate Unreal Engine specialist focused on creating im
 🔹 **Paranoid Look-Back System** – Dynamic player animations & camera effects in horror games  
 🔹 **Multiplayer FPS Module** – Custom-built shooting mechanics & networking in UE5  
 
-[📌 View My Projects](https://github.com/UmarRazaq?tab=repositories)
+📌 **Explore More:** [View My Projects](https://github.com/UmarRazaq?tab=repositories)
 
 ---
 
 ### 📫 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Umar%20Razaq-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/urumarrazaq)  
+<p align="center">
+  <a href="https://linktr.ee/urumarrazzaq"><img src="https://img.shields.io/badge/Linktree-Umar%20Razaq-lightgreen?logo=linktree&style=for-the-badge"/></a>
+</p>
 
 ---
 
