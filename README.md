@@ -39,8 +39,7 @@ I'm **Umar Razaq**, a passionate Unreal Engine specialist focused on creating im
 
 ### 📫 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Umar%20Razaq-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/umarrazaq)  
-[![Twitter](https://img.shields.io/badge/Twitter-@UmarRazaq-lightblue?logo=twitter&style=flat-square)](https://twitter.com/UmarRazaq)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Umar%20Razaq-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/urumarrazaq)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-View-orange?logo=googlechrome&style=flat-square)](https://umarrazaq.dev)  
 
 ---
