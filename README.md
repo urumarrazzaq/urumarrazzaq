@@ -48,13 +48,6 @@
 
 ---
 
-## 📊 GitHub Stats
-![Umar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Umairaqil&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Umairaqil&layout=compact&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Umairaqil&theme=radical&hide_border=false)
-![Profile Views](https://komarev.com/ghpvc/?username=Umairaqil&color=blue&style=flat-square)
-
 
 
 ## 💡 Fun Facts
