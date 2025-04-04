@@ -41,7 +41,7 @@ I'm **Umar Razaq**, a passionate Unreal Engine specialist focused on creating im
 🔹 **Paranoid Look-Back System** – Dynamic player animations & camera effects in horror games  
 🔹 **Multiplayer FPS Module** – Custom-built shooting mechanics & networking in UE5  
 
-📌 **Explore More:** [View My Projects](https://github.com/UmarRazaq?tab=repositories)
+📌 **Explore More:** [View My Projects](https://github.com/urumarrazzaq?tab=repositories)
 
 ---
 
