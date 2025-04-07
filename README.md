@@ -1,3 +1,4 @@
+# Umar Razzaq
 ## 👋 Welcome to My GitHub!
 
 <p align="center">
@@ -24,7 +25,7 @@ I'm **Umar Razaq**, a passionate Unreal Engine specialist focused on creating im
 ### 🛠️ Tech & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Unreal%20Engine-5.3-blue?logo=unrealengine&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Unreal%20Engine-5-blue?logo=unrealengine&style=for-the-badge" />
   <img src="https://img.shields.io/badge/C%2B%2B-Game%20Development-orange?logo=c%2B%2B&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Blueprints-Scripting-blue?logo=unrealengine&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Figma-UI%2FUX%20Design-purple?logo=figma&style=for-the-badge" />
@@ -41,6 +42,14 @@ I'm **Umar Razaq**, a passionate Unreal Engine specialist focused on creating im
 🔹 **Multiplayer FPS Module** – Custom-built shooting mechanics & networking in UE5  
 
 📌 **Explore More:** [View My Projects](https://github.com/urumarrazzaq?tab=repositories)
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-user-contribution.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-user-contribution.svg" />
+  <img alt="github-snake" src="github-user-contribution.svg" />
+</picture>
 
 ---
 
