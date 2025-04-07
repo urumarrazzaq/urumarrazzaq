@@ -17,8 +17,7 @@ I'm **Umar Razaq**, a passionate Unreal Engine specialist focused on creating im
 🚀 **Gameplay Programming** – Creating engaging game mechanics using C++ & Blueprints  
 🤖 **AI Development** – Implementing Smart AI with adaptive behavior & decision-making  
 🎨 **UI/UX Design** – Designing smooth, interactive interfaces using UMG  
-🏗️ **ArchViz & Environments** – Crafting realistic worlds with UE5  
-🎭 **Animation & VFX** – Enhancing immersion with stunning effects  
+🏗️ **ArchViz & Environments** – Crafting realistic worlds with UE5
 
 ---
 
