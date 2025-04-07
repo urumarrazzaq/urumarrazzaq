@@ -1,4 +1,7 @@
-# Umar Razzaq
+<h1 align="center"> 
+  Umar Razzaq 
+</h1>
+
 ## 👋 Welcome to My GitHub!
 
 <p align="center">
