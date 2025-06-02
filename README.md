@@ -2,7 +2,7 @@
   Umar Razzaq 
 </h1>
 
-## 👋 Welcome to My GitHub!
+## Hi👋,  Welcome to My World! 🌍
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=37F4D3&center=true&vCenter=true&width=600&lines=Unreal+Engine+Developer;AI+Enthusiast;Gameplay+Programmer;Creating+Immersive+Experiences" alt="Typing SVG" />
@@ -12,7 +12,12 @@
 
 ### 🎮 About Me
 
-I'm **Umar Razaq**, a passionate Unreal Engine specialist focused on creating immersive gaming experiences. With expertise in **Unreal Engine 5, AI development, UI/UX, and multiplayer gameplay**, I love crafting high-quality, engaging projects that push the limits of interactive storytelling.
+> 🟨 *Building with logic, dreaming in color. Developer by profession, artist by heart.*
+
+A passionate **Unreal Engine specialist** focused on creating immersive gaming experiences.  
+With expertise in **Unreal Engine 5, AI development, UI/UX, and multiplayer gameplay**,  
+I love crafting high-quality, engaging projects that push the limits of interactive storytelling.
+
 
 ---
 
