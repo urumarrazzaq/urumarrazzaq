@@ -10,6 +10,11 @@
 
 ---
 
+<video src="Intro.mkv" width="600" autoplay muted loop>
+  Your browser does not support the video tag.
+</video>
+
+
 ### 🎮 About Me
 
 > 🟨 *Building with logic, dreaming in color. Developer by profession, artist by heart.*
