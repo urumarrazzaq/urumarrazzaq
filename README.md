@@ -10,9 +10,6 @@
 
 ---
 
-<video src="Intro.mkv" width="600" autoplay muted loop>
-  Your browser does not support the video tag.
-</video>
 
 
 ### 🎮 About Me
