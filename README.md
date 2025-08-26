@@ -10,7 +10,7 @@
 
 ---
 
-[![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://youtu.be/deM89YjD4g0)
+[![Watch the video](https://github.com/urumarrazzaq/urumarrazzaq/blob/main/Image.png)](https://youtu.be/deM89YjD4g0)
 
 ### 🎮 About Me
 
