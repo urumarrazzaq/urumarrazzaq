@@ -9,8 +9,14 @@
 </p>
 
 ---
-
+## 🎥 Introduction Video
 [![Watch the video](https://github.com/urumarrazzaq/urumarrazzaq/blob/main/Image.png)](https://youtu.be/deM89YjD4g0)
+
+<p align="center">
+  <a href="https://youtu.be/deM89YjD4g0" target="_blank">
+    <img src="https://img.shields.io/badge/▶%20Watch%20Intro Video-red?logo=youtube&logoColor=white" alt="Watch on YouTube"/>
+  </a>
+</p>
 
 ### 🎮 About Me
 
