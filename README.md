@@ -8,6 +8,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=37F4D3&center=true&vCenter=true&width=600&lines=Unreal+Engine+Developer;AI+Enthusiast;Gameplay+Programmer;Creating+Immersive+Experiences" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <a href="https://urumarrazzaq.github.io/"><img src="https://img.shields.io/badge/Portfolio-urumarrazzaq.github.io-37F4D3?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio website"/></a>
+</p>
+
 ---
 ## 🎥 Introduction Video
 [![Watch the video](https://github.com/urumarrazzaq/urumarrazzaq/blob/main/Image.png)](https://youtu.be/deM89YjD4g0)
@@ -53,11 +57,12 @@ I love crafting high-quality, engaging projects that push the limits of interact
 
 ### 🌟 Featured Projects
 
+🔹 **[Claude UE5 Dev Toolkit](https://github.com/urumarrazzaq/claude-ue5-dev-toolkit)** – Claude Code toolkit for Unreal Engine 5: UE-specific skills, specialised subagents, a safety hook that blocks destructive commands, and a project validator  
 🔹 **Poker AI System** – Advanced AI with randomized behavior, adaptive strategies, and bluffing techniques  
 🔹 **Paranoid Look-Back System** – Dynamic player animations & camera effects in horror games  
 🔹 **Multiplayer FPS Module** – Custom-built shooting mechanics & networking in UE5  
 
-📌 **Explore More:** [View My Projects](https://github.com/urumarrazzaq?tab=repositories)
+📌 **Explore More:** [Portfolio](https://urumarrazzaq.github.io/) · [All Repositories](https://github.com/urumarrazzaq?tab=repositories)
 
 ---
 
@@ -72,6 +77,7 @@ I love crafting high-quality, engaging projects that push the limits of interact
 ### 📫 Let's Connect!
 
 <p align="center">
+  <a href="https://urumarrazzaq.github.io/"><img src="https://img.shields.io/badge/Website-urumarrazzaq.github.io-37F4D3?logo=googlechrome&logoColor=white&style=for-the-badge"/></a>
   <a href="https://linktr.ee/urumarrazzaq"><img src="https://img.shields.io/badge/Linktree-Umar%20Razaq-lightgreen?logo=linktree&style=for-the-badge"/></a>
 </p>
 
