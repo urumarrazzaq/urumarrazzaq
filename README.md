@@ -71,6 +71,49 @@ public:
   <a href="https://github.com/urumarrazzaq?tab=repositories"><b>📦 All repositories</b></a>
 </p>
 
+## 🎬 Highlight reel
+
+*Click any shot to watch it in action.*
+
+<table>
+  <tr>
+    <td align="center" width="33%"><a href="https://store.steampowered.com/app/764050/Maelstrom/"><img src="https://urumarrazzaq.github.io/assets/img/portfolio/compressed/MaleStrom.png" width="260" alt="Maelstrom (Steam)" /><br /><sub><b>▶ Maelstrom (Steam)</b></sub></a></td>
+    <td align="center" width="33%"><a href="https://youtu.be/eCQpA3ObE0g?si=-UiIsEPbuS2FG8WO"><img src="https://urumarrazzaq.github.io/assets/img/portfolio/compressed/BattleRoyale.png" width="260" alt="Battle Royale FPS (Lyra)" /><br /><sub><b>▶ Battle Royale FPS (Lyra)</b></sub></a></td>
+    <td align="center" width="33%"><a href="https://youtu.be/DDIMg1jHtc4?si=g5FejXlFdLZtvNn4"><img src="https://urumarrazzaq.github.io/assets/img/portfolio/compressed/AISwordCombat.png" width="260" alt="UE5 AI Sword Combat" /><br /><sub><b>▶ UE5 AI Sword Combat</b></sub></a></td>
+  </tr>
+  <tr>
+    <td align="center" width="33%"><a href="https://youtu.be/Z-MC9skx4mk?si=EQbe2Lc_NepJt33I"><img src="https://urumarrazzaq.github.io/assets/img/portfolio/compressed/PokerDealer.png" width="260" alt="AI Poker Dealer" /><br /><sub><b>▶ AI Poker Dealer</b></sub></a></td>
+    <td align="center" width="33%"><a href="https://youtu.be/sSIjjK43hbU?si=EChKpm-fiYzbP4eW"><img src="https://urumarrazzaq.github.io/assets/img/portfolio/compressed/Mummy.png" width="260" alt="UE5 Mummy AI" /><br /><sub><b>▶ UE5 Mummy AI</b></sub></a></td>
+    <td align="center" width="33%"><a href="https://youtu.be/JT4ai5N_CYw?si=ob2H4h4sd3xYUMDM"><img src="https://urumarrazzaq.github.io/assets/img/portfolio/compressed/Grace.png" width="260" alt="MetaHuman AI Companion" /><br /><sub><b>▶ MetaHuman AI Companion</b></sub></a></td>
+  </tr>
+  <tr>
+    <td align="center" width="33%"><a href="https://youtu.be/0SpW9YAK8rY?si=jNfthMwf8ebl_HlH"><img src="https://urumarrazzaq.github.io/assets/img/portfolio/compressed/Dragon%20Knight1.png" width="260" alt="Dragon Knight Trailer" /><br /><sub><b>▶ Dragon Knight Trailer</b></sub></a></td>
+    <td align="center" width="33%"><a href="https://youtu.be/8zmOOxN53H0?si=qEVMjXcLWWGBOkTv"><img src="https://urumarrazzaq.github.io/assets/img/portfolio/compressed/Minesweeper.png" width="260" alt="Minesweeper Plugin (Slate)" /><br /><sub><b>▶ Minesweeper Plugin (Slate)</b></sub></a></td>
+    <td align="center" width="33%"><a href="https://youtu.be/EonpYzR5mXk?si=b7t6MzKC_QH-8Yeg"><img src="https://urumarrazzaq.github.io/assets/img/portfolio/compressed/DreamHouse.png" width="260" alt="ArchViz DreamHouse" /><br /><sub><b>▶ ArchViz DreamHouse</b></sub></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://urumarrazzaq.github.io/portfolio.html"><b>🎮 31 more projects on my portfolio →</b></a></p>
+
+## 📊 Player stats
+
+*Self-generated daily from my public GitHub activity.*
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/urumarrazzaq/urumarrazzaq/output/stats/player-dark.svg" />
+    <img alt="Player stats" src="https://raw.githubusercontent.com/urumarrazzaq/urumarrazzaq/output/stats/player.svg" width="49%" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/urumarrazzaq/urumarrazzaq/output/stats/languages-dark.svg" />
+    <img alt="Top languages" src="https://raw.githubusercontent.com/urumarrazzaq/urumarrazzaq/output/stats/languages.svg" width="49%" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/urumarrazzaq/urumarrazzaq/output/stats/activity-dark.svg" />
+    <img alt="Weekly activity and streaks" src="https://raw.githubusercontent.com/urumarrazzaq/urumarrazzaq/output/stats/activity.svg" width="49%" />
+  </picture>
+</p>
+
 ## 👾 Arcade - my contributions, played as games
 
 *Every square is a day of code. The games regenerate daily from my contribution graph.*
@@ -133,10 +176,6 @@ public:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/urumarrazzaq/urumarrazzaq/output/profile-3d-contrib/profile-season-animate.svg" />
   <img alt="3D contribution graph" src="https://raw.githubusercontent.com/urumarrazzaq/urumarrazzaq/output/profile-3d-contrib/profile-season-animate.svg" />
 </picture>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=urumarrazzaq&theme=tokyonight&hide_border=true&ring=37F4D3&fire=37F4D3&currStreakLabel=37F4D3" alt="GitHub streak" />
-</p>
 
 ## ⚡ Loading screen tip
 
