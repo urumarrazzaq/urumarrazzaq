@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="200" viewBox="0 0 480 200" role="img" aria-label="INVENTORY · TOP LANGUAGES">
+<style>
+  text { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; }
+  .t { font-size: 15px; font-weight: 700; fill: #37F4D3; letter-spacing: 1.5px; }
+  .l { font-size: 12.5px; fill: #8b949e; }
+  .v { font-size: 13px; font-weight: 700; fill: #e6edf3; }
+  .big { font-size: 26px; font-weight: 800; fill: #37F4D3; }
+  .row { opacity: 0; animation: in .5s ease-out forwards; }
+  .grow { transform-box: fill-box; transform-origin: left; transform: scaleX(0); animation: grow 1.2s ease-out .3s forwards; }
+  .rise { transform-box: fill-box; transform-origin: bottom; transform: scaleY(0); animation: rise .9s ease-out forwards; }
+  @keyframes in { to { opacity: 1; } }
+  @keyframes grow { to { transform: scaleX(1); } }
+  @keyframes rise { to { transform: scaleY(1); } }
+</style>
+<rect x="0.5" y="0.5" width="479" height="199" rx="10" fill="#0d1117" stroke="#1f6f66"/>
+<text x="22" y="32" class="t">INVENTORY · TOP LANGUAGES</text>
+<g class="row" style="animation-delay:0.00s"><circle cx="27" cy="54" r="5" fill="#e34c26"/><text x="38" y="58" class="v">HTML</text><rect x="142" y="49" width="286" height="8" rx="4" fill="#21262d"/><rect x="142" y="49" width="123.3" height="8" rx="4" fill="#e34c26" class="grow"/><text x="458" y="58" class="l" text-anchor="end">43.1%</text></g><g class="row" style="animation-delay:0.12s"><circle cx="27" cy="76" r="5" fill="#f34b7d"/><text x="38" y="80" class="v">C++</text><rect x="142" y="71" width="286" height="8" rx="4" fill="#21262d"/><rect x="142" y="71" width="61.0" height="8" rx="4" fill="#f34b7d" class="grow"/><text x="458" y="80" class="l" text-anchor="end">21.3%</text></g><g class="row" style="animation-delay:0.24s"><circle cx="27" cy="98" r="5" fill="#3D6117"/><text x="38" y="102" class="v">TeX</text><rect x="142" y="93" width="286" height="8" rx="4" fill="#21262d"/><rect x="142" y="93" width="56.7" height="8" rx="4" fill="#3D6117" class="grow"/><text x="458" y="102" class="l" text-anchor="end">19.8%</text></g><g class="row" style="animation-delay:0.36s"><circle cx="27" cy="120" r="5" fill="#3572A5"/><text x="38" y="124" class="v">Python</text><rect x="142" y="115" width="286" height="8" rx="4" fill="#21262d"/><rect x="142" y="115" width="29.0" height="8" rx="4" fill="#3572A5" class="grow"/><text x="458" y="124" class="l" text-anchor="end">10.2%</text></g><g class="row" style="animation-delay:0.48s"><circle cx="27" cy="142" r="5" fill="#3178c6"/><text x="38" y="146" class="v">TypeScript</text><rect x="142" y="137" width="286" height="8" rx="4" fill="#21262d"/><rect x="142" y="137" width="5.6" height="8" rx="4" fill="#3178c6" class="grow"/><text x="458" y="146" class="l" text-anchor="end">2.0%</text></g><g class="row" style="animation-delay:0.60s"><circle cx="27" cy="164" r="5" fill="#f1e05a"/><text x="38" y="168" class="v">JavaScript</text><rect x="142" y="159" width="286" height="8" rx="4" fill="#21262d"/><rect x="142" y="159" width="4.3" height="8" rx="4" fill="#f1e05a" class="grow"/><text x="458" y="168" class="l" text-anchor="end">1.5%</text></g>
+</svg>
