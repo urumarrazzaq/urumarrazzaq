@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="200" viewBox="0 0 480 200" role="img" aria-label="COMBO METER · WEEKLY ACTIVITY">
+<style>
+  text { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; }
+  .t { font-size: 15px; font-weight: 700; fill: #0b8f7e; letter-spacing: 1.5px; }
+  .l { font-size: 12.5px; fill: #57606a; }
+  .v { font-size: 13px; font-weight: 700; fill: #24292f; }
+  .big { font-size: 26px; font-weight: 800; fill: #0b8f7e; }
+  .row { opacity: 0; animation: in .5s ease-out forwards; }
+  .grow { transform-box: fill-box; transform-origin: left; transform: scaleX(0); animation: grow 1.2s ease-out .3s forwards; }
+  .rise { transform-box: fill-box; transform-origin: bottom; transform: scaleY(0); animation: rise .9s ease-out forwards; }
+  @keyframes in { to { opacity: 1; } }
+  @keyframes grow { to { transform: scaleX(1); } }
+  @keyframes rise { to { transform: scaleY(1); } }
+</style>
+<rect x="0.5" y="0.5" width="479" height="199" rx="10" fill="#ffffff" stroke="#d0d7de"/>
+<text x="22" y="32" class="t">COMBO METER · WEEKLY ACTIVITY</text>
+<rect x="22" y="155.2" width="26" height="2.8" rx="4" fill="#57606a" class="rise" style="animation-delay:0.00s"/><text x="35.0" y="174" class="l" text-anchor="middle">Sun</text><rect x="60" y="92.4" width="26" height="65.6" rx="4" fill="#57606a" class="rise" style="animation-delay:0.08s"/><text x="73.0" y="174" class="l" text-anchor="middle">Mon</text><rect x="98" y="68.0" width="26" height="90.0" rx="4" fill="#13b49e" class="rise" style="animation-delay:0.16s"/><text x="111.0" y="174" class="l" text-anchor="middle">Tue</text><rect x="136" y="98.9" width="26" height="59.1" rx="4" fill="#57606a" class="rise" style="animation-delay:0.24s"/><text x="149.0" y="174" class="l" text-anchor="middle">Wed</text><rect x="174" y="137.4" width="26" height="20.6" rx="4" fill="#57606a" class="rise" style="animation-delay:0.32s"/><text x="187.0" y="174" class="l" text-anchor="middle">Thu</text><rect x="212" y="144.9" width="26" height="13.1" rx="4" fill="#57606a" class="rise" style="animation-delay:0.40s"/><text x="225.0" y="174" class="l" text-anchor="middle">Fri</text><rect x="250" y="156.0" width="26" height="2.0" rx="4" fill="#57606a" class="rise" style="animation-delay:0.48s"/><text x="263.0" y="174" class="l" text-anchor="middle">Sat</text>
+<g class="row" style="animation-delay:.2s"><text x="306" y="70" class="l">🔥 Current streak</text>
+<text x="306" y="92" class="big">0d</text></g>
+<g class="row" style="animation-delay:.35s"><text x="306" y="118" class="l">🏆 Longest (12 mo)</text>
+<text x="306" y="140" class="v">4 days</text></g>
+<g class="row" style="animation-delay:.5s"><text x="306" y="164" class="l">⚡ Best day</text>
+<text x="306" y="182" class="v">74 on 02 Jun 2026</text></g>
+</svg>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="200" viewBox="0 0 480 200" role="img" aria-label="PLAYER STATS">
+<style>
+  text { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; }
+  .t { font-size: 15px; font-weight: 700; fill: #37F4D3; letter-spacing: 1.5px; }
+  .l { font-size: 12.5px; fill: #8b949e; }
+  .v { font-size: 13px; font-weight: 700; fill: #e6edf3; }
+  .big { font-size: 26px; font-weight: 800; fill: #37F4D3; }
+  .row { opacity: 0; animation: in .5s ease-out forwards; }
+  .grow { transform-box: fill-box; transform-origin: left; transform: scaleX(0); animation: grow 1.2s ease-out .3s forwards; }
+  .rise { transform-box: fill-box; transform-origin: bottom; transform: scaleY(0); animation: rise .9s ease-out forwards; }
+  @keyframes in { to { opacity: 1; } }
+  @keyframes grow { to { transform: scaleX(1); } }
+  @keyframes rise { to { transform: scaleY(1); } }
+</style>
+<rect x="0.5" y="0.5" width="479" height="199" rx="10" fill="#0d1117" stroke="#1f6f66"/>
+<text x="22" y="32" class="t">PLAYER STATS</text>
+
+<text x="458" y="32" class="l" text-anchor="end">Player since 2022</text>
+<text x="22" y="66" class="big">LVL 8</text>
+<text x="458" y="48" class="l" text-anchor="end">XP 538 / 640</text>
+<rect x="258" y="56" width="200" height="10" rx="5" fill="#21262d"/>
+<rect x="258" y="56" width="64.0" height="10" rx="5" fill="#37F4D3" class="grow"/>
+<g class="row" style="animation-delay:0.00s"><text x="22" y="98" class="l">🔥 Contributions*</text><text x="226" y="98" class="v" text-anchor="end">270</text></g><g class="row" style="animation-delay:0.15s"><text x="22" y="124" class="l">💾 Commits*</text><text x="226" y="124" class="v" text-anchor="end">230</text></g><g class="row" style="animation-delay:0.30s"><text x="22" y="150" class="l">🔀 Pull requests*</text><text x="226" y="150" class="v" text-anchor="end">2</text></g><g class="row" style="animation-delay:0.45s"><text x="248" y="98" class="l">📦 Public repos</text><text x="452" y="98" class="v" text-anchor="end">43</text></g><g class="row" style="animation-delay:0.60s"><text x="248" y="124" class="l">⭐ Stars earned</text><text x="452" y="124" class="v" text-anchor="end">26</text></g><g class="row" style="animation-delay:0.75s"><text x="248" y="150" class="l">👥 Followers</text><text x="452" y="150" class="v" text-anchor="end">7</text></g>
+<text x="22" y="186" class="l">* last 12 months · XP = all-time contributions · 🍴 6 forks</text>
+</svg>
